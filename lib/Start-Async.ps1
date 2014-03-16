@@ -1,3 +1,8 @@
+# I have a couple sources to thank for this conglomeration that I will update shortly
+# ...after I find them again
+# most knowledge was gained through the TechNet articles on 
+# System.Management.Automation.Runspaces
+
 function Start-Async {
 
     [CmdletBinding()]
